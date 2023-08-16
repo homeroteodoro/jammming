@@ -33,11 +33,12 @@ image assets — all of the image assets used in the website.
 
 ### Built with
 
-React
-Javascript
-Git, GitHub
+* React
+* Javascript
+* Git
+* GitHub
 
-** How to use **
+__ How to use __
 
 I. Application setup
 
