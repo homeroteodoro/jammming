@@ -38,7 +38,7 @@ image assets — all of the image assets used in the website.
 * Git
 * GitHub
 
-__ How to use __
+__How to use__
 
 I. Application setup
 
