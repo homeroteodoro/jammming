@@ -1,7 +1,7 @@
 # Codecademy Jammming Project
-###Jamming Project Learning - Codecademy
+### Jamming Project Learning - Codecademy
 
-##Table of contents
+## Table of contents
 Project Goals
 Built with
 How to use
