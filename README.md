@@ -39,13 +39,13 @@ Git, GitHub
 
 ** How to use **
 
-** I. Application setup **
+I. Application setup
 
 Create an application in your Spotify developer account.
 Add your application url localhost:3000 (for example) to your application Redirect URIs.
 Change your .env file REACT_APP_API_KEY to your application Client ID and REACT_APP_REDIRECT_URL to your application url.
 
-** II. In the project directory, you can run:** 
+II. In the project directory, you can run:
 
 ** npm start **
 
