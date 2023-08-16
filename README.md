@@ -6,7 +6,7 @@
 
 In this project, you will build a React web application called Jammming. You will use your knowledge of React components, state, and requests with the Spotify API to build a website that allows users to search the Spotify library, create a custom playlist, then save it to their Spotify account.
 
-Project Features
+### Project Features
 
 Spotify Login — the first time a user searches for a song, album, or artist, Spotify will ask them to log in or set up a new account.
 Search by Song, Album, or Artist — a user can type the name of a song, artist, or album into the search bar and click the SEARCH button.
