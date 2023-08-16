@@ -4,11 +4,11 @@
 
 ## Table of contents
 
-Project Goals
-Built with
-How to use
-Challenges and Credits
-Project Goals
+* Project Goals
+* Built with
+* How to use
+* Challenges and Credits
+* Project Goals
 
 ### I. Project Context
 
