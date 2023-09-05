@@ -1,11 +1,10 @@
 .PlaylistList {
-  display: flex;
+  flex: 30;
   flex-direction: column;
   align-items: center;
+  height: 550px;
   overflow-y: scroll;
-  width: 37%;
-  max-height: 950px;
-  padding: 2.27rem 1.16rem;
+  padding: .88rem;
   background-color: rgba(1, 12, 63, 0.7);
   box-shadow: 0 4px 2px 2px #000000;
 }
@@ -48,5 +47,6 @@
 @media only screen and (max-width: 1020px) {
   .PlaylistList {
     width: 90%;
+    margin-bottom: 2rem;
   }
 }

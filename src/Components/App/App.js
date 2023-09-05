@@ -128,10 +128,9 @@ class App extends React.Component{
               {/* {console.log("this.state.searchResults")}
               {console.log(this.state.searchResults)} */}
               <SearchResults className="search-results" searchResults = {this.state.searchResults} onAdd={this.addTrack}/>
-              <div className='playlist-edit'>
-                  <PlaylistList playlists={this.state.userPlaylists} onRefresh={this.updatePlaylistID} onSelect={this.addTrack} onPlaylistChange={this.changePlaylistName} onNameChange = {this.updatePlaylistName} onSwitchPlaylist={this.clearPlaylist}/>
-                  <Playlist playlistName={this.state.playlistName} playlistTracks={this.state.playlistTracks} playlistStatus= {this.state.newPlaylist} onRemove={this.removeTrack} onNameChange = {this.updatePlaylistName} onSave = {this.savePlaylist} />
-              </div>
+              <Playlist playlistName={this.state.playlistName} playlistTracks={this.state.playlistTracks} playlistStatus= {this.state.newPlaylist} onRemove={this.removeTrack} onNameChange = {this.updatePlaylistName} onSave = {this.savePlaylist} />
+              <PlaylistList playlists={this.state.userPlaylists} onRefresh={this.updatePlaylistID} onSelect={this.addTrack} onPlaylistChange={this.changePlaylistName} onNameChange = {this.updatePlaylistName} onSwitchPlaylist={this.clearPlaylist}/>
+              
               
             </div>
           </div>
