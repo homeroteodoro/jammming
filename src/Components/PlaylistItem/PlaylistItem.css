@@ -1,0 +1,12 @@
+.PlaylistItem {
+    padding: 7px;
+    width: 97%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.PlaylistItem:hover{
+    
+    background-color: rgba(2, 10, 44, 0.5);
+    cursor:pointer;
+}
